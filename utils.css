@@ -1,0 +1,17 @@
+.all-text-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tags{
+    display: flex;
+    justify-content:center;
+}
+img:hover{
+    cursor: pointer;
+
+
+}
+p{
+    color: black;
+}
